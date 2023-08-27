@@ -1,0 +1,8 @@
+{
+  "compileOnSave": false,
+  "extends": "@tsconfig/strictest/tsconfig.json",
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "bundler"
+  }
+}
